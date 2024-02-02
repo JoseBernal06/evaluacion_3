@@ -9,6 +9,7 @@ public class MENU_PRINCIPAL {
     private JLabel texto_password;
     private JButton boton_validar;
     JPanel panel_menu;
+    static JFrame frame_2 = new JFrame("MENU OPCIONES");
 
     public MENU_PRINCIPAL() {
         boton_validar.addActionListener(new ActionListener() {
@@ -20,7 +21,6 @@ public class MENU_PRINCIPAL {
 
                 if (usuario.equals(clave_quemada)){
                     //System.out.println("hola");
-                    JFrame frame_2 = new JFrame("MENU OPCIONES");
                     frame_2.setContentPane(new MENU_OPCIONES().panel_opciones);
                     frame_2.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                     frame_2.setSize(300,300);

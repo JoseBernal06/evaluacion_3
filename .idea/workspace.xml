@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="943c3d30-ecbb-4741-9a51-4ba15d102046" name="Changes" comment="tercera version">
-      <change afterPath="$PROJECT_DIR$/src/DEPOSITO.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DEPOSITO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RETIRO.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RETIRO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SALDO.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SALDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VOLVER_MENU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MENU_OPCIONES.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/MENU_OPCIONES.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DEPOSITO.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/DEPOSITO.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DEPOSITO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DEPOSITO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gracias_1.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gracias_1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MENU_OPCIONES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MENU_OPCIONES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MENU_PRINCIPAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MENU_PRINCIPAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RETIRO.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/RETIRO.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RETIRO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RETIRO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SALDO.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/SALDO.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SALDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SALDO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +37,13 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DEPOSITO.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/MENU_OPCIONES.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/MENU_PRINCIPAL.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/RETIRO.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/SALDO.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/VOLVER_MENU.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -43,22 +54,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/POO/IdeaProjects/evaluacion_3/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/POO/IdeaProjects/evaluacion_3/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706890090874</updated>
       <workItem from="1706890091967" duration="4623000" />
+      <workItem from="1707016046676" duration="3257000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
