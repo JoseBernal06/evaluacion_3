@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="943c3d30-ecbb-4741-9a51-4ba15d102046" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gracias_1.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gracias_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="943c3d30-ecbb-4741-9a51-4ba15d102046" name="Changes" comment="Boton">
+      <change afterPath="$PROJECT_DIR$/src/SALDO.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SALDO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +63,24 @@
       <option name="presentableId" value="Default" />
       <updated>1706890090874</updated>
       <workItem from="1706890091967" duration="818000" />
-      <workItem from="1706891239047" duration="1185000" />
+      <workItem from="1706891239047" duration="1821000" />
     </task>
+    <task id="LOCAL-00001" summary="Boton">
+      <option name="closed" value="true" />
+      <created>1706892592018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706892592018</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Boton" />
+    <option name="LAST_COMMIT_MESSAGE" value="Boton" />
   </component>
 </project>
