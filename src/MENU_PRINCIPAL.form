@@ -32,7 +32,7 @@
           <text value="INGRESA TU CONTRASEÑA"/>
         </properties>
       </component>
-      <component id="7f29" class="javax.swing.JPasswordField" binding="passwordField1" default-binding="true">
+      <component id="7f29" class="javax.swing.JPasswordField" binding="ingresado_password">
         <constraints>
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="0" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
