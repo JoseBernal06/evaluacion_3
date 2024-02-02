@@ -21,7 +21,7 @@ public class MENU_PRINCIPAL {
                 if (usuario.equals(clave_quemada)){
                     //System.out.println("hola");
                     JFrame frame_2 = new JFrame("MENU OPCIONES");
-                    //frame_2.setContentPane(new MENU_OPCIONES().panel_opciones);
+                    frame_2.setContentPane(new MENU_OPCIONES().panel_opciones);
                     frame_2.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                     frame_2.setSize(300,300);
                     frame_2.pack();
@@ -30,7 +30,7 @@ public class MENU_PRINCIPAL {
 
                 }
                 else{
-                    System.out.println("adios");
+                    //System.out.println("adios");
                     JOptionPane.showMessageDialog(null, "CLAVE INCORRECTA");
                 }
             }
