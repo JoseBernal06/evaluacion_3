@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="943c3d30-ecbb-4741-9a51-4ba15d102046" name="Changes" comment="segunda version">
-      <change afterPath="$PROJECT_DIR$/src/MENU_OPCIONES.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MENU_OPCIONES.java" afterDir="false" />
+    <list default="true" id="943c3d30-ecbb-4741-9a51-4ba15d102046" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Gracias_1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gracias_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MENU_PRINCIPAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MENU_PRINCIPAL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/MENU_PRINCIPAL.java" root0="SKIP_INSPECTION" />
@@ -33,7 +32,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2bon1jRomSFHXA5xGHlHHrpANr5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "185",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
@@ -62,49 +64,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706890090874</updated>
-      <workItem from="1706890091967" duration="2322000" />
+      <workItem from="1706890091967" duration="818000" />
+      <workItem from="1706891239047" duration="1185000" />
     </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1706891022495</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1706891022495</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1706891059123</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1706891059123</updated>
-    </task>
-    <task id="LOCAL-00003" summary="segunda version">
-      <option name="closed" value="true" />
-      <created>1706891610076</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1706891610076</updated>
-    </task>
-    <task id="LOCAL-00004" summary="segunda version">
-      <option name="closed" value="true" />
-      <created>1706891651384</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1706891651384</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
-    <MESSAGE value="segunda version" />
-    <option name="LAST_COMMIT_MESSAGE" value="segunda version" />
   </component>
 </project>
