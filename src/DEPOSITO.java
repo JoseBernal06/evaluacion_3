@@ -1,8 +1,7 @@
 import javax.swing.*;
 
-public class RETIRO {
-    private JLabel texto;
+public class DEPOSITO {
     private JTextField textField1;
     private JButton boton_menu;
-    JPanel panel_retiro;
+    JPanel panel_deposito;
 }
